@@ -20,4 +20,4 @@ Then install all dependencies needed by running in terminal
 Once everything is installed you can run the development server with terminal using command
 "npm run dev"
 Then open the browser and for the url input
-"http://lcoalhost:5173"
+"http://localhost:5173"
