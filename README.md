@@ -8,8 +8,7 @@ react to add new list items and display to webpage.
 # Installation
 
 Must clone project repo into local machine 
-Then move into local repository directory and run this in a terminal window 
-"npx create-vite@latest --template react ."
+
 Will scaffold out a Vite project using the React template.
 Then install all dependencies needed by running in terminal
 "npm install"
